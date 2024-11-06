@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Website design**
 
-- 🌱 I’m currently learning **Framework**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **alexandre.vuong@protonmail.com**
 
-- 📄 Know about my experiences [https://alexandrevuong.odoo.com/](https://alexandrevuong.odoo.com/)
+- 📄 Know about my experiences Incoming ##[https://alexandrevuong.odoo.com/](https://alexandrevuong.odoo.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
