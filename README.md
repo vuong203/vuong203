@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alexandre.vuong@protonmail.com**
 
-- 📄 Know about my experiences Incoming ##[https://alexandrevuong.odoo.com/](https://alexandrevuong.odoo.com/)
+- 📄 Know about my experiences Incoming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
