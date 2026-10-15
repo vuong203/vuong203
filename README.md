@@ -37,9 +37,24 @@ French-Vietnamese. I design, build and deploy complete web applications on my ow
 
 #### Stack
 
-<p><b>Web</b>&nbsp; <img src="https://img.shields.io/badge/React-1b1733?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-1b1733?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/three.js-1b1733?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" /> <img src="https://img.shields.io/badge/Firebase-1b1733?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/Supabase-1b1733?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Vercel-1b1733?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></p>
-<p><b>Infra & security</b>&nbsp; <img src="https://img.shields.io/badge/Linux-1b1733?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Networking-1b1733?style=flat-square&logo=cisco&logoColor=white" alt="Networking" /> <img src="https://img.shields.io/badge/Containers-1b1733?style=flat-square&logo=docker&logoColor=white" alt="Containers" /> <img src="https://img.shields.io/badge/High%20availability-1b1733?style=flat-square" alt="High availability" /> <img src="https://img.shields.io/badge/Cybersecurity-1b1733?style=flat-square" alt="Cybersecurity" /></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Web</b><br /><br />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,threejs,firebase,supabase,vercel&theme=dark" /><img src="https://skillicons.dev/icons?i=react,nextjs,threejs,firebase,supabase,vercel&theme=light" alt="react, nextjs, threejs, firebase, supabase, vercel" /></picture>
+    </td>
+    <td width="50%" valign="top">
+      <b>Infra & security</b><br /><br />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,cloudflare,bash&theme=dark" /><img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,bash&theme=light" alt="linux, docker, cloudflare, bash" /></picture>
+      <br /><sub>Networking · Containers · High availability · Cybersecurity</sub>
+    </td>
+  </tr>
+</table>
 
 #### Contact
 
-<p><a href="mailto:alexandre.vuong@protonmail.com"><img src="https://img.shields.io/badge/alexandre.vuong%40protonmail.com-1b1733?style=flat-square&logo=protonmail&logoColor=white" alt="alexandre.vuong@protonmail.com" /></a> <a href="https://www.linkedin.com/in/alexandre-vuong"><img src="https://img.shields.io/badge/LinkedIn-1b1733?style=flat-square" alt="LinkedIn" /></a> <a href="https://alexandre-vuong.com"><img src="https://img.shields.io/badge/alexandre--vuong.com-1b1733?style=flat-square&logo=googlechrome&logoColor=white" alt="alexandre-vuong.com" /></a></p>
+<p>
+  <a href="https://alexandre-vuong.com"><img src="https://img.shields.io/badge/Portfolio-444c56?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/alexandre-vuong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTExNiAzSDEyYTguOTEgOC45MSAwIDAwLTkgOC44djEwNC40MmE4LjkxIDguOTEgMCAwMDkgOC43OGgxMDRhOC45MyA4LjkzIDAgMDA5LTguODFWMTEuNzdBOC45MyA4LjkzIDAgMDAxMTYgM3pNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alexandre.vuong@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+</p>
