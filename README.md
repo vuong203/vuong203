@@ -1,27 +1,45 @@
-<h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">I am Franco-Vietnamese passionate about technology and network security. Having explored these areas with many projects.</h3>
+<a href="https://alexandre-vuong.com"><img src="assets/banner.png" alt="The Kube — Alexandre Vuong's portfolio, a WebGL particle nebula" width="100%" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuong203&label=Profile%20views&color=0e75b6&style=flat" alt="vuong203" /> </p>
+### Alexandre Vuong — Web & Infrastructure Engineer
 
-<p align="left"> <a href="https://twitter.com/alexandre_vuong" target="blank"><img src="https://img.shields.io/twitter/follow/alexandre_vuong?logo=twitter&style=for-the-badge" alt="alexandre_vuong" /></a> </p>
+French-Vietnamese. I design, build and deploy complete web applications on my own, from mockup to production. On the infrastructure side: system and network administration, containerized services and high availability, with cybersecurity as a common thread.
 
-- 🔭 I’m currently working on **Website design**
+**Portfolio → [alexandre-vuong.com](https://alexandre-vuong.com)** — a WebGL particle nebula where each project takes shape.
 
-- 🌱 I’m currently learning **Rust**
+#### Live projects
 
-- 📫 How to reach me **alexandre.vuong@protonmail.com**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://amaterasu-hub.alexandre-vuong.com"><img src="assets/amaterasu.webp" alt="Amaterasu Hub" /></a>
+      <br /><b><a href="https://amaterasu-hub.alexandre-vuong.com">Amaterasu Hub</a></b>
+      <br /><sub>Pro photo galleries for studios & photographers: secure links, client favorites, HD delivery.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://hoian-explorer.web.app"><img src="assets/hoian.webp" alt="Hoi An Explorer" /></a>
+      <br /><b><a href="https://hoian-explorer.web.app">Hoi An Explorer</a></b>
+      <br /><sub>Smart local guide for Hoi An: AI assistant, weather-aware picks, map & itinerary.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://polarys.alexandre-vuong.com"><img src="assets/polarys.webp" alt="Polarys" /></a>
+      <br /><b><a href="https://polarys.alexandre-vuong.com">Polarys</a></b>
+      <br /><sub>IT made simple, in practice: free step-by-step guides, no jargon.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://artificial-ish.alexandre-vuong.com"><img src="assets/artificial-ish.webp" alt="Artificial-ish" /></a>
+      <br /><b><a href="https://artificial-ish.alexandre-vuong.com">Artificial-ish</a></b>
+      <br /><sub>Experimental conversational app. Artificial intelligence. <i>Ish.</i></sub>
+    </td>
+  </tr>
+</table>
 
-- 📄 Know about my experiences Incoming
+#### Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alexandre_vuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexandre_vuong" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexandre-vuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-vuong" height="30" width="40" /></a>
-<a href="https://fb.com/alexandre.vuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexandre.vuong" height="30" width="40" /></a>
-<a href="https://instagram.com/vuong203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vuong203" height="30" width="40" /></a>
-</p>
+<p><b>Web</b>&nbsp; <img src="https://img.shields.io/badge/React-1b1733?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-1b1733?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/three.js-1b1733?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js" /> <img src="https://img.shields.io/badge/Firebase-1b1733?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/Supabase-1b1733?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Vercel-1b1733?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></p>
+<p><b>Infra & security</b>&nbsp; <img src="https://img.shields.io/badge/Linux-1b1733?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Networking-1b1733?style=flat-square&logo=cisco&logoColor=white" alt="Networking" /> <img src="https://img.shields.io/badge/Containers-1b1733?style=flat-square&logo=docker&logoColor=white" alt="Containers" /> <img src="https://img.shields.io/badge/High%20availability-1b1733?style=flat-square" alt="High availability" /> <img src="https://img.shields.io/badge/Cybersecurity-1b1733?style=flat-square" alt="Cybersecurity" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+#### Contact
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuong203&show_icons=true&locale=en&layout=compact" alt="vuong203" /></p>
+<p><a href="mailto:alexandre.vuong@protonmail.com"><img src="https://img.shields.io/badge/alexandre.vuong%40protonmail.com-1b1733?style=flat-square&logo=protonmail&logoColor=white" alt="alexandre.vuong@protonmail.com" /></a> <a href="https://www.linkedin.com/in/alexandre-vuong"><img src="https://img.shields.io/badge/LinkedIn-1b1733?style=flat-square" alt="LinkedIn" /></a> <a href="https://alexandre-vuong.com"><img src="https://img.shields.io/badge/alexandre--vuong.com-1b1733?style=flat-square&logo=googlechrome&logoColor=white" alt="alexandre-vuong.com" /></a></p>
